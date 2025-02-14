@@ -7,7 +7,7 @@
   
 </div>
 
-Find source code <a link="game.html">here</<>
+Find source code <a link="game.html">here</a>
 
 You can use one of the online HTML Editor like https://jsfiddle.net/ so run and test your code if you like.
 Or just save it in a local file and open it with a browser. Happy prompting :)
