@@ -1,5 +1,11 @@
-Swiss Mountain Game is a HTML / Javascript Browser-Game created solely with OpenAI o3-mini-high model.
 
+<div align="center">
+  <img src="game.png" width="700"/>
+  <h1>Swiss Mountain Browser Game</h1>
+  
+  <p><strong>HTML/JavaScript browser game created solely with the OpenAI o3-mini-high model.</strong></p>
+  
+</div>
 
 Find below the prompt to try it yourself.
 
