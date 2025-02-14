@@ -7,12 +7,12 @@
   
 </div>
 
-Find source code <a href="game.html">here</a>
+You can find the source code of the game right <a href="game.html">here</a>
 
 You can use one of the online HTML Editor like https://jsfiddle.net/ so run and test your code if you like.
 Or just save it in a local file and open it with a browser. Happy prompting :)
 
-Find below the prompt to try it yourself.
+Find below the prompt sued to create your own game with a capable LLM like OpenAI o3-mini (high)
 
 <b>Create a HTML5 / Javascript based browser game with the following requirements:<b>
 <ul>
