@@ -7,16 +7,15 @@
   
 </div>
 
-Find below the prompt to try it yourself.
-
 You can use one of the online HTML Editor like https://jsfiddle.net/ so run and test your code if you like.
 Or just save it in a local file and open it with a browser. Happy prompting :)
 
+Find below the prompt to try it yourself.
 
-<h2>Prompt for LLM to creat HTML5/JavaScript-Based Browser Game:</h1>
+<b>Create a HTML5 / Javascript based browser game with the following requirements:<b>
 <ul>
-    <li>Create a HTML5 / Javascript based browser game with the following requirements:</li>
-    <ul>
+ 
+
         <li>Add a welcome screen with "Press any key to START"</li>
         <li>General theme of the game is Switzerland.</li>
         <li>The main Character is a little creature with arms and legs and a face.</li>
@@ -31,5 +30,4 @@ Or just save it in a local file and open it with a browser. Happy prompting :)
         <li>There are several categories of enemies: slow, medium and fast. Some are patrolling some are approaching the main character.</li>
         <li>If the character dies, the game is reset.</li>
         <li>Design a meaningful ending of the level with a finish zone.</li>
-    </ul>
 </ul>
