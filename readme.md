@@ -14,8 +14,6 @@ Find below the prompt to try it yourself.
 
 <b>Create a HTML5 / Javascript based browser game with the following requirements:<b>
 <ul>
- 
-
         <li>Add a welcome screen with "Press any key to START"</li>
         <li>General theme of the game is Switzerland.</li>
         <li>The main Character is a little creature with arms and legs and a face.</li>
