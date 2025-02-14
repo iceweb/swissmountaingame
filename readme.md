@@ -13,33 +13,23 @@ You can use one of the online HTML Editor like https://jsfiddle.net/ so run and 
 Or just save it in a local file and open it with a browser. Happy prompting :)
 
 
-<h2>HTML5/JavaScript-Based Browser Game Requirements</h1>
+<h2>Prompt for LLM to creat HTML5/JavaScript-Based Browser Game:</h1>
 <ul>
-    <li>Add a welcome screen with "Press any key to START".</li>
-    <li>General theme of the game: Switzerland.</li>
-    <li>Main character: A little creature with arms, legs, and a face.</li>
-    <li>Create 3 levels.</li>
-    <li>Each level should span several screen widths to allow character movement.</li>
-    <li>Design levels with obstacles that the character can jump over.</li>
-    <li>Include interactive boxes for collecting coins.</li>
-    <li>Add animations for coin collection from boxes.</li>
-    <li>Implement a scoring system.</li>
-    <li>Add enemy characters: green little mushrooms with arms, legs, and a face.</li>
-    <li>Different enemy categories:
-        <ul>
-            <li>Slow</li>
-            <li>Medium</li>
-            <li>Fast</li>
-        </ul>
-    </li>
-    <li>Enemy behaviors:
-        <ul>
-            <li>Patrolling</li>
-            <li>Approaching the main character</li>
-        </ul>
-    </li>
-    <li>Enemies can be killed by shooting.</li>
-    <li>If the character dies, the game should reset.</li>
-    <li>Design a meaningful level ending with a finish zone.</li>
+    <li>Create a HTML5 / Javascript based browser game with the following requirements:</li>
+    <ul>
+        <li>Add a welcome screen with "Press any key to START"</li>
+        <li>General theme of the game is Switzerland.</li>
+        <li>The main Character is a little creature with arms and legs and a face.</li>
+        <li>Create 3 Levels</li>
+        <li>Make each level several screen width long, so that the character can walk through the level.</li>
+        <li>Design levels with obstacles to jump over. Make some interesting variations.</li>
+        <li>Add boxes to interact with and to collect coins.</li>
+        <li>Add animation when collecting coins from boxes.</li>
+        <li>Add Scoring system</li>
+        <li>Add Enemies green little mushrooms who need to be killed by shooting at them.</li>
+        <li>Enemies have legs and arms and a face.</li>
+        <li>There are several categories of enemies: slow, medium and fast. Some are patrolling some are approaching the main character.</li>
+        <li>If the character dies, the game is reset.</li>
+        <li>Design a meaningful ending of the level with a finish zone.</li>
+    </ul>
 </ul>
-
